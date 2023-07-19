@@ -8,10 +8,9 @@ Then add your introduction script to this file. Dont remove any of these lines. 
 
 ================================================================================================================================
 
-Example:
---------
-Sai Kolli: Hi, I am sai and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11 
-and React/Angular/VueJS.
+I am Hari Chandana and I have over 8 years of experience in Full Stack Java Development, focusing on object-oriented programming and working with various Java/J2EE technologies. 
 
 =================================================================================================================================
+
+
 
