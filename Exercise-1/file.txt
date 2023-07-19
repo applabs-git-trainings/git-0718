@@ -14,4 +14,4 @@ Sai Kolli: Hi, I am sai and I am currently working as a Java Full Stack Develope
 and React/Angular/VueJS.
 
 =================================================================================================================================
-
+Vikas Reddy: Hi iam vikas and iam currently looking working as data engineer at so and so comapany and iam good at software technologies like python,spark,AWS.
