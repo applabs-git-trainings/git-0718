@@ -1,7 +1,6 @@
-================================================================================================================================
+===============================================================================================================================
 
 Here is the file, where you need to make some changes.
-
 Clone this repository to your Local machine and create a new feature branch(eg: feature/<your_name>). 
 
 Then add your introduction script to this file. Dont remove any of these lines. Just update the file with your Introduction.
@@ -11,70 +10,35 @@ Then add your introduction script to this file. Dont remove any of these lines. 
 Example:
 --------
 
-Intro Script
-I have around 8+ of Experience in java full stack developer
+Hi, I am Manideep and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11
+and React/Angular/VueJS.
 
 
- I grew my knowledge of front-end technologies over time to encompass
- JavaScript, HTML, CSS, Bootstrap, React, Angular, and the most recent versions of Angular and ReactJS. 
 
-I have also used Spring Boot to create cloud Microservices, convert Spring-based MVC applications to Spring Boot, and create a variety of microservices. 
+=======
+Sai Kolli: Hi, I am sai and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11 
+and React/Angular/VueJS.
+================================================================================================================================
+Naveen Reddy Challa: I am Naveen, I have completed Masters from TAMUCC, and open to work. I am good at Scala,Spark,SQL.
+=======
 
-Proficient in using Postman for API development and testing, ensuring seamless integration and functionality of APIs in various projects. 
-Developed and executed HTTP requests, validated API responses, and automated testing workflows using Postman's user interface.
+=================================================================================================================================
+Hi, I am karthik and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11
+and React/Angular/VueJS.
 
-I have a solid experience in working with Java Reflection, the Collections Framework, and Threads. Throughout my career,
-
-
-Rest and SOAP web services are areas where I have strong experience, and I am well-versed in IBM WebSphere and Apache Tomcat.
- Additionally, I have worked with the UNIX platform and shell scripts, ensuring smooth operations across different operating systems.
-
-My expertise lies in Java and J2EE, where I have worked extensively on client/server and web-based applications using technologies 
-such as  EJB, JSP, Servlets, JDBC, XML, and JavaScript. //Mention this stuff at the end.
-
-Version control is essential, and I have hands-on experience with Git, Bitbucket, and GitLab.
- I am proficient in working with various IDEs, including Eclipse, IntelliJ, and the Spring Tool Suite (STS).
-
-In terms of databases, I have worked with Oracle, MySQL, and MongoDB, utilizing Hibernate for Object-Relational Mapping (ORM).
- My experience extends to testing frameworks like JUnit and Mockito, ensuring the quality and reliability of the applications I develop.
-
-Throughout my projects, I have followed Agile/Scrum methodologies and actively contributed to the entire software development lifecycle. 
-Design patterns such as Singleton, Factory, Builder, Facade, and Prototype are concepts I am well-versed in.
-
- I have practical experience working with logging tools such as just4log, log4j, and logback. 
-These tools enable efficient logging of application events and help in troubleshooting and debugging.
-
-I have actively engaged in production support, taking responsibility for addressing production job failures and 
-ensuring the smooth operation of applications. This includes troubleshooting issues, coordinating with operations support teams, and providing timely resolutions.
-
-I have worked extensively with Amazon Web Services (AWS) and have hands-on experience with services like 
-IAM (Identity and Access Management), Security Groups, S3 buckets, ECS (Elastic Container Service), EKS (Elastic Kubernetes Service), 
-SQS (Simple Queue Service), SNS (Simple Notification Service), Route53, and Lambdas. This includes deployment, configuration, 
-and management of applications on the AWS cloud platform.
-
- I have utilized JMS to create, send, receive, and read messages in distributed systems. 
-This messaging service provides reliable and asynchronous communication between components of an application.
-
-I am familiar with log monitoring tools like Splunk. 
-These tools help in real-time log analysis, monitoring application health, and identifying potential issues for proactive troubleshooting.
-
-I have worked with various unit test frameworks such as JEST, Jasmine, and Karma. 
-These frameworks enable the creation of automated unit tests to ensure the functionality and reliability of individual components or modules.
-
-I have experience with integration and acceptance testing frameworks like Behave and Cypress. 
-These frameworks facilitate the testing of end-to-end scenarios and ensure the proper integration of various components within an application.
-
-I have actively participated in change orders (CO's) and managed the release process to production environments. 
-This includes ensuring proper version control, coordinating with stakeholders, and deploying applications to production environments with minimal downtime.
-
-In addition to my technical skills, I am an effective communicator and problem solver. 
-I thrive in high-pressure situations and excel as a team player. 
-I have a proven track record of post-release quality management and providing production release assistance.
-
- I have worked on deploying Session and Entity Bean Components in WebLogic and WebSphere Application Servers, as well as 
-developing distributed server-side components.
-
+Vikas Reddy: Hi iam vikas and iam currently looking working as data engineer at so and so comapany and iam good at software technologies like python,spark,AWS.
 
 
 =================================================================================================================================
 
+=======
+
+Bharathi Putta: Hi, I am putta and i am currently looking for c2c opportunities as a Java full stack Developer. I am proficient in Java,django,Reactjs.
+
+=================================================================================================================================
+
+Sainath Reddy Gaddam: Hello, I am Sainath i have completed my masters from TAMUCC, i am open to work and looking for java developer roles.
+
+=================================================================================================================================
+
+prasen patel : hi , I'm prasen patel and i currently looking for c2c job in data
