@@ -10,8 +10,14 @@ Then add your introduction script to this file. Dont remove any of these lines. 
 
 Example:
 --------
-Sai Kolli: Hi, I am sai and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11 
-and React/Angular/VueJS.
-
+I am Sampath have  8 years of experience as Python developer with strong background in Django web framework and client-server technologies in design, development, and implementation, I have worked on a diverse range of projects that showcase my expertise in various web technologies and agile methodologies.
+Throughout my career, I have been involved in developing web-based applications using HTML, CSS, JavaScript, AJAX, XML, and JSON. I have successfully designed and implemented large-scale business-critical systems using object-oriented design and programming concepts in Python and Django.
+ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) tools such as SQL Server Integration Services (SSIS) have been integral to my projects, facilitating seamless data migration and integration. Additionally, I am well-versed in AWS services, including Amazon EC2, S3, Redshift, EMR, and SQS, and have utilized Python libraries like Boto and Boto3 for AWS integration.
+My experience spans various Python libraries and frameworks, such as NumPy, MatPlotLib, Pickle, PySide, and wxPython. I have developed web applications using Django, Flask, and Pyramid, following the Model-View-Controller (MVC) architecture. Additionally, I am proficient in front-end development, designing user-friendly interfaces with HTML, CSS, and JavaScript.
+I am well-acquainted with different databases like Oracle, MySQL, PostgreSQL, and MongoDB. Proficient in SQL and PL/SQL, I have developed complex queries, stored procedures, functions, and packages. I am also experienced in working with NoSQL databases like MongoDB.
+Throughout my career, I have followed agile methodologies and SCRUM processes, ensuring iterative development and efficient project management. I have strong version control skills, using GIT, SVN, and Mercurial for code management.
+Collaboration and effective communication have been key to my success. I have worked with project management tools like JIRA, Redmine, and Bugzilla to streamline project workflows and ensure issue tracking.
+With my passion for technology and a commitment to delivering high-quality solutions, I am confident in my ability to contribute to your organization. I thrive in both self-managed and team environments, and my strong interpersonal and analytical skills enable effective collaboration with stakeholders and team members
+.
 =================================================================================================================================
 
