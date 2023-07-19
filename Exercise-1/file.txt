@@ -1,7 +1,7 @@
+
 ===============================================================================================================================
 
 Here is the file, where you need to make some changes.
-
 Clone this repository to your Local machine and create a new feature branch(eg: feature/<your_name>). 
 
 Then add your introduction script to this file. Dont remove any of these lines. Just update the file with your Introduction.
@@ -12,8 +12,25 @@ Example:
 --------
 Sai Kolli: Hi, I am sai and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11 
 and React/Angular/VueJS.
+================================================================================================================================
+Naveen Reddy Challa: I am Naveen, I have completed Masters from TAMUCC, and open to work. I am good at Scala,Spark,SQL.
+=======
 
 =================================================================================================================================
+Hi, I am karthik and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11
+and React/Angular/VueJS.
+
+Vikas Reddy: Hi iam vikas and iam currently looking working as data engineer at so and so comapany and iam good at software technologies like python,spark,AWS.
+
+
+=================================================================================================================================
+
+
+I am Sampath have  8 years of experience as Python developer with strong background in Django web framework and client-server technologies in design, development, and implementation, I have worked on a diverse range of projects that showcase my expertise in various web technologies and agile methodologies.
+
+=================================================================================================================================
+
+
 Bharathi Putta: Hi, I am putta and i am currently looking for c2c opportunities as a Java full stack Developer. I am proficient in Java,django,Reactjs.
 
 =================================================================================================================================
@@ -21,3 +38,15 @@ Bharathi Putta: Hi, I am putta and i am currently looking for c2c opportunities 
 Sainath Reddy Gaddam: Hello, I am Sainath i have completed my masters from TAMUCC, i am open to work and looking for java developer roles.
 
 =================================================================================================================================
+
+=======
+prasen patel : hi , I'm prasen patel and i currently looking for c2c job in data
+
+=================================================================================================================================
+
+venky : I am venky, iam a java full stack developer having 8 years of experience.
+
+===================================================================================================================================
+=======
+
+Manideep sai: hi iam manideep
