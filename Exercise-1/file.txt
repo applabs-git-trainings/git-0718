@@ -13,21 +13,5 @@ Example:
 Sai Kolli: Hi, I am sai and I am currently working as a Java Full Stack Developer at X-Company and I am good at Java8,11 
 and React/Angular/VueJS.
 ================================================================================================================================
-Naveen Reddy Challa: I am Naveen, I have completed Masters from TAMUCC, and open to work. I am good at Scala,Spark,SQL.
-=======
-
-=================================================================================================================================
-
-Vikas Reddy: Hi iam vikas and iam currently looking working as data engineer at so and so comapany and iam good at software technologies like python,spark,AWS.
-
-=================================================================================================================================
-
-=======
-
-Bharathi Putta: Hi, I am putta and i am currently looking for c2c opportunities as a Java full stack Developer. I am proficient in Java,django,Reactjs.
-
-=================================================================================================================================
-
-Sainath Reddy Gaddam: Hello, I am Sainath i have completed my masters from TAMUCC, i am open to work and looking for java developer roles.
-
-=================================================================================================================================
+uma : Hi , i am uma
+================================================================================================================================
