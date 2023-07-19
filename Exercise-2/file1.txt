@@ -1,1 +1,3 @@
 This file is used to demonstrate changes without merge conflicts
+
+Added another line
